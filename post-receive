@@ -1,0 +1,14 @@
+#!/bin/sh
+
+#此脚本放到.git/hooks/下面
+#chmod +x post-receive
+
+
+cd ../..
+git reset --hard
+git checkout master
+git fetch
+git pull
+
+
+sh auto_changelog.sh
