@@ -1,3 +1,16 @@
+#  (2019-09-28)
+
+
+
+
+#  (2019-09-28)
+
+
+### Features
+
+* add post commit shell to auto changelog ([6afdf83](https://github.com/dbtang/software_configuration_management/commit/6afdf83))
+
+
 #  (2019-09-27)
 
 
@@ -19,3 +32,4 @@
 
 ### 分支版本图
 ![avatar](branches_version_tree.png)
+
